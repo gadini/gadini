@@ -1,4 +1,4 @@
-<h1 align="left">Gustavo Gadini</h1>
+<h2 align="left">Gustavo Gadini</h2>
 
 <p align="left"> Profissional em Desenvolvimento Back-End buscando oportunidades para crescer e contribuir de forma significativa no mundo do desenvolvimento de software. 
 
