@@ -32,5 +32,6 @@ Sou entusiasmado e estou sempre buscando oportunidades para colaborar em projeto
 
 <h3>GitHub Stats</h3>
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gadini)](https://github.com/gadini/github-readme-stats)
 
 <br>
